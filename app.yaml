@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: nunu133
+owner: nunu133
+package: .
